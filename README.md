@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there 👋 I am Patricia 👩🏻‍💻
+
+- 🛠 I'm currently working in my persolan projects.
+- 🤔 I’m looking for help with feedbacks.
+- 🛩 🗺I love travel and learn new things every day.
+- ❓ Ask me about my projects, specific experience or anything else.
+- 📩 How to reach me: patriciamvbog@gmail.com 
+
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
 
 <!--
 **patriciabog/patriciabog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
