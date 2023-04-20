@@ -6,7 +6,7 @@
 - ❓ Ask me about my projects, specific experience or anything else.
 - 📩 How to reach me: patriciamvbog@gmail.com 
 
-![html](./images/html-5.png)
+![html](./images/html-5.png/|30px)
 
 <!--
 **patriciabog/patriciabog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
