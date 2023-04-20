@@ -1,5 +1,4 @@
 # Hi there 👋 I am Patricia 👩🏻‍💻
-# Hi there 👋 I am Patricia 👩🏻‍💻
 
 - 🛠 I'm currently working in my persolan projects.
 - 🤔 I’m looking for help with feedbacks.
