@@ -1,6 +1,6 @@
 # Hi there 👋 I am Patricia 👩🏻‍💻
 
-![developer](./images/developer.png)
+<!--![developer](./images/developer.png)-->
 
 - 🛠 I'm currently working in my persolan projects.
 - 🤔 I’m looking for help with feedbacks.
