@@ -2,7 +2,7 @@
 
 <!--![developer](./images/developer.png)-->
 
-- 🛠 I'm currently working in my persolan projects.
+- 🛠 I'm currently working in my personal projects.
 - 🤔 I’m looking for help with feedbacks.
 - 🛩 🗺I love travel and learn new things every day.
 - ❓ Ask me about my projects, specific experience or anything else.
