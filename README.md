@@ -2,8 +2,7 @@
 
 <!--![developer](./images/developer.png)-->
 
-- 🛠 I'm currently working in my personal projects.
-- 🤔 I’m looking for help with feedbacks.
+- 🛠 I'm Junior Full Stack developer.
 - 🛩 🗺I love travel and learn new things every day.
 - ❓ Ask me about my projects, specific experience or anything else.
 - 📩 How to reach me: patriciamvbog@gmail.com 
