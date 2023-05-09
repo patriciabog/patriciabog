@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Patricia 👩🏻‍💻</h1>
 <h3 align="center">A passionate Junior Full Stack developer in Ireland</h3>
 
-- 🔭 I’m currently working on **LoveSearch**
+- 🔭 I’m currently working on **React-projects**
 
 - 🌱 I’m currently learning **Databases**
 
