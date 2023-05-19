@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **React, Sass/CSS, JS**
 
-- 📫 How to reach me **patriciamvbog@gmail.com**
+- 📫 How to reach me **linkedin.com/in/epmontesdeocaverastegui**
 
 - ⚡ Fun fact **I think I love cats**
 
