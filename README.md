@@ -14,8 +14,6 @@
 
 - 💬 Ask me about **React, Sass/CSS, JS**
 
-- 📫 How to reach me **linkedin.com/in/epmontesdeocaverastegui**
-
 - ⚡ Fun fact **I think I love cats**
 
 <h3 align="left">Connect with me:</h3>
