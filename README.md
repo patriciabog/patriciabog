@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋 I'm Patricia 👩🏻‍💻</h1>
-<h3 align="center">A passionate Junior Full Stack developer in Ireland</h3>
+<h3 align="center">A passionate junior Full Stack Web Developer in Ireland</h3>
 
 - 🔭 I’m currently working on **React-projects**
 
