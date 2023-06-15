@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Vue.js**
 
-- 👯 I’m looking to collaborate on **Back-end project**
+- 👯 I’m looking to collaborate on **Front-end project**
 
 - 🤝 I’m looking for help with **React**
 
