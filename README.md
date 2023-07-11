@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Projects**
 
-- 🌱 I’m currently learning **Vue.js**
+- 🌱 I’m currently learning **Vue.js and PHP**
 
 - 👯 I’m looking to collaborate on **Full Stack Projects**
 
