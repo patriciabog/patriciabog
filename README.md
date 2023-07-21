@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋 I'm Patricia 👩🏻‍💻</h1>
 <h3 align="center">A passionate Frontend Developer in Ireland</h3>
 
-- 🔭 I’m currently working on **Projects**
+- 🔭 I’m currently working on **New Projects using new languages**
 
 - 🌱 I’m currently learning **Vue.js and PHP**
 
@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/patriciabog](https://github.com/patriciabog)
 
-- 💬 Ask me about ** HTML, React, Sass/CSS, JS**
+- 💬 Ask me about ** HTML5, CSS/SASS, JavaScript, React**
 
 - ⚡ Fun fact **I think I love cats**
 
