@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **Full Stack Projects**
 
-- 🤝 I’m looking for help with **Frontend**
+- 🤝 I’m looking for help with **Frontend projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/patriciabog](https://github.com/patriciabog)
 
