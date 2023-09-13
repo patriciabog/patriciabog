@@ -2,13 +2,9 @@
 <h1 align="center">Hi 👋 I'm Patricia 👩🏻‍💻</h1>
 <h3 align="center">A passionate Web Developer in Ireland</h3>
 
-- 🔭 I’m currently working on **New Projects using new languages**
-
-- 🌱 I’m currently learning **Vue.js and PHP**
+- 🔭 I’m currently working on **Projects**
 
 - 👯 I’m looking to collaborate on **Full Stack Projects**
-
-- 🤝 I’m looking for help with **Frontend projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/patriciabog](https://github.com/patriciabog)
 
